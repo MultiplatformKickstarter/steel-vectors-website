@@ -1,0 +1,80 @@
+baseURL = 'https://dcs.multiplatformkickstarter.com/'
+languageCode = 'en-us'
+title = 'Unofficial DCS Companion App'
+themesDir = "themes"
+theme = "hugo-apsho"
+
+
+# Navigation Bar
+[[menu.main]]
+name = "Home"
+url = "#hero"
+weight = 1
+
+[[menu.main]]
+name = "Screenshots"
+url = "#screenshots"
+weight = 2
+
+#[[menu.main]]
+#name = "About"
+#url = "#feature"
+#weight = 3
+
+#[[menu.main]]
+#name = "Services"
+#url = "#faq"
+#weight = 3
+
+[[menu.main]]
+name = "News"
+url = "#blog"
+weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+name = "Home"
+url = "#"
+weight = 1
+
+[[menu.sitemap]]
+name = "Latest Article"
+url = "/blog"
+weight = 2
+
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "/privacy"
+weight = 3
+
+#[[menu.sitemap]]
+#name = "Contact"
+#url = "/contact"
+#weight = 4
+
+# Footer Address
+[params.address]
+address = ""
+email = "hello@multiplatformkickstarter.com"
+phone = ""
+
+# Footer Social
+[params.social]
+twitter = "https://x.com/mpkickstarter"
+github = "https://github.com/MultiplatformKickstarter"
+
+[params]
+
+# Header
+logo = "images/hero/dcs-logo-small.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "G-73T5L39NVM"
+attribution = "<a href=\"https://www.freepik.es/vector-gratis/composicion-isometrica-militar-coloreada-colores-beige_4301428.htm#fromView=search&page=1&position=39&uuid=26ebcbc8-ff8e-4572-900e-2d70d09cbd55&query=fighter+jet\">Illustrations by Macrovector</a>"
+
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://multiplatformkickstarter.com/\" target=\"_blank\">Multiplatform Kickstarter </a> 2023-{year}"
+
+#contact
+email = "support@multiplatformkickstarter.com"
