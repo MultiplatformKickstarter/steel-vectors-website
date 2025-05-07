@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b9fef34-66f4-4536-9ce4-27286749d4fd" name="Changes" comment="added favicon">
+      <change afterPath="$PROJECT_DIR$/static/images/hero/logo_steel_vectors512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/feature.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/feature.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hero.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/hero.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/homeblog.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homeblog.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/screenshots.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/screenshots.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/services.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/critical.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/critical.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/non-critical.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/non-critical.scss_8eb8c3e1c83e81a3be17b8e96be1a8e3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apsho/assets/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apsho/assets/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apsho/assets/scss/components/_service.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apsho/assets/scss/components/_service.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/heroArea.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-apsho/layouts/partials/heroArea.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +41,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/StaticMania/hugo-apsho.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/MultiplatformKickstarter/steel-vectors-website.git&quot;,
     &quot;accountId&quot;: &quot;b8c822b2-d849-46ea-bfd9-ebee7670609d&quot;
   }
 }</component>
@@ -57,16 +69,16 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ferran.pons/AndroidStudioProjects/unofficial-dcs-companion-website/static/images",
+    "last_opened_file_path": "/Users/ferran.pons/AndroidStudioProjects/steel-vectors-website/static/images/hero",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/hero" />
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/content/blog" />
       <recent name="$PROJECT_DIR$/static/images/footer" />
-      <recent name="$PROJECT_DIR$/static/images/hero" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">

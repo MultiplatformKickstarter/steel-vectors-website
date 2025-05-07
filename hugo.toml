@@ -1,6 +1,6 @@
-baseURL = 'https://dcs.multiplatformkickstarter.com/'
+baseURL = 'https://steelvectors.multiplatformkickstarter.com/'
 languageCode = 'en-us'
-title = 'Unofficial DCS Companion App'
+title = 'Steel Vectors'
 themesDir = "themes"
 theme = "hugo-apsho"
 
@@ -26,10 +26,10 @@ weight = 2
 #url = "#faq"
 #weight = 3
 
-[[menu.main]]
-name = "News"
-url = "#blog"
-weight = 4
+#[[menu.main]]
+#name = "News"
+#url = "#blog"
+#weight = 4
 
 # Footer Sitemap
 [[menu.sitemap]]
@@ -37,10 +37,10 @@ name = "Home"
 url = "#"
 weight = 1
 
-[[menu.sitemap]]
-name = "Latest Article"
-url = "/blog"
-weight = 2
+#[[menu.sitemap]]
+#name = "Latest Article"
+#url = "/blog"
+#weight = 2
 
 [[menu.sitemap]]
 name = "Privacy & Policy"
@@ -66,7 +66,7 @@ github = "https://github.com/MultiplatformKickstarter"
 [params]
 
 # Header
-logo = "images/hero/dcs-logo-small.png"
+logo = "images/hero/logo_steel_vectors512x512.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "G-73T5L39NVM"
 attribution = "<a href=\"https://www.freepik.es/vector-gratis/composicion-isometrica-militar-coloreada-colores-beige_4301428.htm#fromView=search&page=1&position=39&uuid=26ebcbc8-ff8e-4572-900e-2d70d09cbd55&query=fighter+jet\">Illustrations by Macrovector</a>"
